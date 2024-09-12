@@ -14,13 +14,6 @@ public class Main {
         double poblacion = 0.039;  // En millones
         String moneda = "Euro";
 
-        System.out.println("\nInformación de un país que deseo visitar:");
-        System.out.println("País: " + pais);
-        System.out.println("Capital: " + capital);
-        System.out.println("Idioma oficial: " + idiomaOficial);
-        System.out.println("Población (en millones): " + poblacion);
-        System.out.println("Moneda: " + moneda);
-
         // Sección 3: Información de un personaje histórico favorito
         String nombreCompleto = "Leonardo da Vinci";
         String fechaNacimiento = "15 de abril de 1452";
