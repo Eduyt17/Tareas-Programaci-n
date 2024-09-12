@@ -12,13 +12,6 @@ idioma_oficial = "Francés"
 poblacion = 0.039  # En millones
 moneda = "Euro"
 
-print("\nInformación de un país que deseo visitar:")
-print("País:", pais)
-print("Capital:", capital)
-print("Idioma oficial:", idioma_oficial)
-print("Población (en millones):", poblacion)
-print("Moneda:", moneda)
-
 # Sección 3: Información de un personaje histórico favorito
 nombre_completo = "Leonardo da Vinci"
 fecha_nacimiento = "15 de abril de 1452"
