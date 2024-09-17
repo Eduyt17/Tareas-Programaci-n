@@ -1,7 +1,7 @@
 import java.util.Scanner;
-
+//EDUARDO CALDERON TORRES
 class CalculadoraProductos {
-
+//EDUARDO CALDERON TORRES
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
@@ -17,7 +17,7 @@ class CalculadoraProductos {
         double[] impuestosAplicados = new double[3];
         double[] totales = new double[3];
         double totalAcumulado = 0;
-
+// EDUARDO CALDERON TORRES
         for (int i = 0; i < 3; i++) {
             System.out.println("Ingresa el nombre del producto " + (i + 1) + ": ");
             nombres[i] = input.nextLine();
